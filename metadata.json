@@ -1,0 +1,6 @@
+{
+  "name": "Scene Shadow: 에코잉(Echoing)",
+  "description": "Movie-Clip Shadowing English practice app for Inside Out (인사이드 아웃) - Disgust & Anger scene.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
